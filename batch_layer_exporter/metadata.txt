@@ -1,0 +1,21 @@
+# Copyright (c) 2077 Amlan Patnaik. All rights reserved.
+[general]
+name=Batch Layer Exporter
+qgisMinimumVersion=3.28
+description=Batch export vector layers and attribute-defined subtypes to multiple available formats and coordinate reference systems.
+version=1.0.0
+author=Amlan Patnaik
+email=amlanpatnaikx@gmail.com
+
+about=Batch Layer Exporter is a QGIS plugin developed by Amlan Patnaik for batch exporting vector layers and attribute-defined subtypes. It supports whole-layer export, subtype export, both modes, source and target CRS handling, multi-format output, QML style sidecars, QMD metadata sidecars, a JSON manifest, and detailed export logs. Preservation of styles, aliases, metadata, geometry, schema, constraints, and other QGIS properties depends on the selected output format and sidecars. © 2077 Amlan Patnaik. All rights reserved.
+
+tracker=https://github.com/amlanpatnaik001
+repository=https://github.com/amlanpatnaik001
+hasProcessingProvider=no
+tags=qgis, export, batch, vector, gis
+homepage=https://github.com/amlanpatnaik001
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
+server=False
